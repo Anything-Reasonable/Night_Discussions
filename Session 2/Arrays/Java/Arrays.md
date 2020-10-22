@@ -34,15 +34,15 @@ for(data_type variable:array){
 }  
 
 Example : 
-		class Testarray1{  					| Output:
-			public static void main(String args[]) {  	| 33
-				int arr[]={33,3,4,5};  			| 3 
-				//printing array using for-each loop	| 4 
-				for(int i:arr)  			| 5
-				System.out.println(i);  		|
-				}					|
-			}						|
-		}  							|
+		class Testarray1{  					| Output:\
+			public static void main(String args[]) {  	| 33\
+				int arr[]={33,3,4,5};  			| 3 \
+				//printing array using for-each loop	| 4 \
+				for(int i:arr)  			| 5 \
+				System.out.println(i);  		|\
+				}					|\
+			}						|\
+		}  							|\
 
 
 

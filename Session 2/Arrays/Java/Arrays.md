@@ -29,20 +29,20 @@ Example : int a[]=new int[5];	//Both declaration and instantiation at a time
 
 
 ### for each loop for iterables
-for(data_type variable:array){  
-//body of the loop  
-}  
+for(data_type variable:array){  \
+//body of the loop  \
+}  \
 
-Example : 
-		class Testarray1{  					| Output:\
-			public static void main(String args[]) {  	| 33\
-				int arr[]={33,3,4,5};  			| 3 \
-				//printing array using for-each loop	| 4 \
-				for(int i:arr)  			| 5 \
-				System.out.println(i);  		|\
-				}					|\
-			}						|\
-		}  							|\
+Example code : \
+		class Testarray1{  	\				
+			public static void main(String args[]) {  \	
+				int arr[]={33,3,4,5};  		\	
+				//printing array using for-each loop	\	
+				for(int i:arr)  			\
+				System.out.println(i);  		\
+				}					\
+			}						\
+		}  							\
 
 
 

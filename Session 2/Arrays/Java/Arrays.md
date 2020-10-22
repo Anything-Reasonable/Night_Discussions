@@ -31,7 +31,7 @@ Example : int a[]=new int[5];	//Both declaration and instantiation at a time
 ### for each loop for iterables
 for(data_type variable:array){  \
 //body of the loop  \
-}  \
+}  
 
 Example code : \
 		class Testarray1{  	\				
@@ -42,7 +42,7 @@ Example code : \
 				System.out.println(i);  		\
 				}					\
 			}						\
-		}  							\
+		}  							
 
 
 

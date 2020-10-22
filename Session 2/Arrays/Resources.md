@@ -7,6 +7,3 @@
 4. [Passing arrays to functions](https://www.tutorialspoint.com/cplusplus/cpp_passing_arrays_to_functions.htm)
 5. [Return array from functions](https://www.tutorialspoint.com/cplusplus/cpp_return_arrays_from_functions.htm)
 6. [Dev Docs on Arrays](https://devdocs.io/cpp/header/array)
-
-  #### Java
-7. [Java Arrays](https://www.javatpoint.com/array-in-java)

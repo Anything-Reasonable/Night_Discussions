@@ -38,6 +38,10 @@ Example code :
 
 
 
+## Resources :
+
+1. [Java Arrays](https://www.javatpoint.com/array-in-java)
+2. [Array Methods](https://www.geeksforgeeks.org/array-class-in-java/)
 
 
 

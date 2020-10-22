@@ -18,7 +18,7 @@ Example : int a[]=new int[5];	//Both declaration and instantiation at a time
 3. Initialization and Accession is done with same syntax as in C++.
 
 
-##Advantages of Arrays
+###Advantages of Arrays
 -Code Optimization: It makes the code optimized, we can retrieve or sort the data efficiently.
 -Random access: We can get any data located at an index position.
 

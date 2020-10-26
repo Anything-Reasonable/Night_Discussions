@@ -1,5 +1,6 @@
 # Resources
-#### C++
+
+  #### C++
 1. [C++ Arrays](https://www.tutorialspoint.com/cplusplus/cpp_arrays.htm)
 2. [Multi-dimensional arrays](https://www.tutorialspoint.com/cplusplus/cpp_multi_dimensional_arrays.htm)
 3. [Pointer to an array](https://www.tutorialspoint.com/cplusplus/cpp_pointer_to_an_array.htm)

@@ -1,0 +1,56 @@
+			**** Collection ****
+Methods under collection :- 
+add();	//insert any element
+size(); // gives the size
+remove(); //removes specified element
+iterator(); 
+addAll();  
+removeAll(); // removes specified collection 
+clear(); // removes all collectoinin
+
+UnDER COLLECTION Interface :-
+1.List Interface
+2.Set Interface
+3.Queue Interface
+
+1 List Interface ~
+
+This collection stores the data sequentially!
+NOte: We cannot create object of this interface !!
+	
+	Under this , there are 4 classes
+	ArrayList , LinkedList , Stack(comes under vector, it is a daughter class of Vector)  , 		Vector(Not that important)
+
+2 Set Interface ~
+
+provides mathematical features
+Note: Set cannot contain *duplicate* elemenets
+
+	Under this , there are 4 classes
+	HashSet , LinkedHashSet  , TreeSet , 	EnumSet(Not that important)
+	
+3 Queue Interface ~
+
+provides ,first in and first out, functionality of Queue ds
+Note: Set cannot contain *duplicate* elemenets
+
+	Under this , there are 3 classes
+	ArrayDeque , LinkedList**  , PriorityQueue(Kaafi important) 
+	
+	Yes, "LinkedList" can implemnet both List and QUeue interfaces!!
+	
+
+
+
+
+
+4. Map Interface ~  
+(Not comes under collection interface but it is under THE COLLECTION FRAMEWORK)
+
+Map DS used
+Pair mai element hoote hai 
+
+	Under this , there are 5 classes 
+	HashMap(Bahot zyada imp) , EnumMap , LinkedHashMap , WeakHashMap , TreeMap
+
+	
